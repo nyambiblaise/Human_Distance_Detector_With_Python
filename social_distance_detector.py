@@ -1,5 +1,5 @@
 # USAGE
-# python social_distance_detector.py --input pedestrians.mp4
+# python social_distance_detector.py --input pedestrians.mp4 or use any  video
 # python social_distance_detector.py --input pedestrians.mp4 --output output.avi
 
 # import the necessary packages
