@@ -11,7 +11,6 @@ import argparse
 import imutils
 import cv2
 import os
-
 import time
 
 from time import gmtime, strftime
